@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Srishan Shakya](https://raw.githubusercontent.com/ShakyaCsun/markdown-portfolio/main/profile-pic.jpg)
